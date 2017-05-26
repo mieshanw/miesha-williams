@@ -1,7 +1,7 @@
-
 body {
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
+
 h1{
   font-size:150px;
 }
@@ -16,8 +16,15 @@ nav { display: inline;
      letter-spacing: 0.1em; 
 }
 nav li { display: inline-block;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
 background-color:#6F2A6A;
 padding:20px;}
+
 nav ul { list-style-type: none; 
          background-color:#6F2A6A;
 }
